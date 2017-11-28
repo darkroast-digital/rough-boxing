@@ -1,0 +1,51 @@
+{
+    "1": {
+        "day": "Monday",
+        "class1": "Mixed Fitness Class",
+        "time1": "5:00-6:00PM",
+        "class2": "Professional Boxing",
+        "time2": "6:00-7:00PM"
+    },
+    "2": {
+        "day": "Tuesday",
+        "class1": "Mixed Fitness Class",
+        "time1": "5:00-6:00PM",
+        "class2": "Professional Boxing",
+        "time2": "6:00-7:00PM"
+    },
+    "3": {
+        "day": "Wedensday",
+        "class1": "Mixed Fitness Class",
+        "time1": "5:00-6:00PM",
+        "class2": "Professional Boxing",
+        "time2": "6:00-7:00PM"
+    },
+    "4": {
+        "day": "Thursday",
+        "class1": "Mixed Fitness Class",
+        "time1": "5:00-6:00PM",
+        "class2": "Professional Boxing",
+        "time2": "6:00-7:00PM"
+    },
+    "5": {
+        "day": "Friday",
+        "class1": "Mixed Fitness Class",
+        "time1": "5:00-6:00PM",
+        "class2": "Professional Boxing",
+        "time2": "6:00-7:00PM"
+    },
+    "6": {
+        "day": "Saturday",
+        "class1": "Mixed Fitness Class",
+        "time1": "5:00-6:00PM",
+        "class2": "Professional Boxing",
+        "time2": "6:00-7:00PM"
+    },
+    "7": {
+        "day": "Sunday",
+        "class1": "Mixed Fitness Class",
+        "time1": "5:00-6:00PM",
+        "class2": "Professional Boxing",
+        "time2": "6:00-7:00PM"
+    }
+}
