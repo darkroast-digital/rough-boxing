@@ -20,18 +20,19 @@
     <!-- Title and Description -->
 
     <title>Rough Boxing</title>
-    <meta type="description" content="">
+    <meta type="description" content="Rough Boxing Gym has been an environment dedicated to grooming the best boxers in the world. Rough Boxing Gym focuses on responsible boxing and producing top performers. However, it also caters to those simply looking to get in shape or learn a bit of self-defense.">
+    <meta type="keywords" content="rough boxing, rough boxing gym, boxing, gym, self-defense, gym membership, fitness, fitness class, personal trainer, personal training">
 
     <!-- Favicons -->
 
     <link rel="icon" href="assets/img/fav.png">
 
     <meta property="og:title" content="Rough Boxing">
-    <meta property="og:description" content="">
+    <meta property="og:description" content="Rough Boxing Gym has been an environment dedicated to grooming the best boxers in the world. Rough Boxing Gym focuses on responsible boxing and producing top performers. However, it also caters to those simply looking to get in shape or learn a bit of self-defense.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://roughboxing.ca">
     <meta property="og:site_name" content="Rough Boxing">
-    <meta property="og:image" content=" /assets/img/og.jpg">
+    <meta property="og:image" content="/assets/img/og.jpg">
 
     <!--[if lt IE 9]>
      <script src="js/polyfill/html5-shiv.js"></script>

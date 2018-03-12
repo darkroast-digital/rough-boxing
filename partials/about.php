@@ -4,7 +4,7 @@
             <h3 class="title">About</h3>
         </div>
         <div class="column-5">
-            <img src="http://res.cloudinary.com/darkroast-digital/image/upload/v1506453301/rough/about-image.jpg" alt="Rough Boxing" draggable="false" class="image-cover">
+            <img src="http://res.cloudinary.com/darkroast-digital/image/upload/v1520876324/rough/about-image.jpg" alt="Rough Boxing" draggable="false" class="image-cover">
         </div>
         <div class="column-5">
             <h2>About Rough Boxing</h2>

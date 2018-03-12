@@ -4219,7 +4219,7 @@ h2 {
 }
 
 .hero {
-  background: #161b1d url("http://res.cloudinary.com/darkroast-digital/image/upload/v1508341942/rough/new-hero.jpg");
+  background: #161b1d url("http://res.cloudinary.com/darkroast-digital/image/upload/v1520876324/rough/hero-bg.jpg");
   background-size: cover;
   color: #ffffff;
   overflow: hidden;
@@ -4245,10 +4245,31 @@ h2 {
   display: flex;
   list-style-type: none;
   margin: 1.5rem 0;
+  position: relative;
+  z-index: 10;
+}
+
+.hero ul:after {
+  content: '';
+  position: absolute;
+  left: -25%;
+  top: -25%;
+  width: 150%;
+  height: 150%;
+  background: url("http://res.cloudinary.com/darkroast-digital/image/upload/v1520876324/rough/hero-nav-bg.png") no-repeat;
+  background-size: 100%;
+  z-index: 0;
 }
 
 .hero ul li {
   margin-right: .5rem;
+  position: relative;
+  z-index: 10;
+}
+
+.hero a {
+  position: relative;
+  z-index: 10;
 }
 
 .hero-title {
@@ -4318,7 +4339,7 @@ h2 {
 }
 
 .schedule {
-  background: url("http://res.cloudinary.com/darkroast-digital/image/upload/v1506453301/rough/schedule-bg.jpg");
+  background: url("http://res.cloudinary.com/darkroast-digital/image/upload/v1520876325/rough/schedule-bg.jpg");
   background-size: cover;
   background-position: -750px;
   padding: 4.5rem 0;
@@ -4393,7 +4414,7 @@ h2 {
 }
 
 .contact {
-  background: url("http://res.cloudinary.com/darkroast-digital/image/upload/v1506453302/rough/contact-bg.jpg");
+  background: url("http://res.cloudinary.com/darkroast-digital/image/upload/v1520876325/rough/contact-bg.jpg");
   background-size: cover;
   color: #ffffff;
   padding: 4.5rem 0;

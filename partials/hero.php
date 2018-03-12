@@ -2,7 +2,7 @@
     <div class="hero-content">
         <div class="container container-full">
             <div class="column-5 offset-3">
-                <img src="http://res.cloudinary.com/darkroast-digital/image/upload/v1506453301/rough/hero-title.png" alt="Rough Boxing" class="hero-title">
+                <img src="http://res.cloudinary.com/darkroast-digital/image/upload/v1520876325/rough/hero-title.png" alt="Rough Boxing" class="hero-title">
                 <hr>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio et quidem, illum excepturi a repudiandae quisquam, facere voluptatum cumque ipsum unde harum quis quia, explicabo maxime suscipit. Maiores, natus odit.</p>
                 <ul class="hero-nav">
